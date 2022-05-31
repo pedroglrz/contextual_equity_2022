@@ -1,6 +1,6 @@
 # contextual_equity_2022
 
-## Spring 2022 Research Project
+## Data Methods for Contextual Equity in Academic Application Decision Making
 
 Contains feature processing, modeling, and evaluation code.  Visualizations and identifiers were removed for privacy reasons.
 
