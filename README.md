@@ -6,8 +6,8 @@ Contains feature processing, modeling, and evaluation code.  Visualizations and 
 
 ## eda
 
-Contains raw data processing notebook and processed data eda.
+Contains raw data processing notebook and processed data eda notebook.
 
 ## modeling
 
-Contains complete model selection workflow. Model results analysis can be found in model evaluation notebook.
+Contains complete model selection workflow. Model results analysis can be found in model evaluation folder.
